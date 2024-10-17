@@ -2,7 +2,7 @@
 - 👀 I’m interested in Quantitative IR (and general political science) using Python
 # Welcome to My GitHub Profile
 
-I am doing a PhD in IR. I am learning Python to do quantitative research that complements qualitative analysis. 
+I am doing a PhD in IR. I am learning Python for quantitative research to complement qualitative analysis. 
 (And, hey... Python can do a lot for qualitative analysis too!)
 
 Feel free to explore and connect!
