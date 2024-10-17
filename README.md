@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aanpop
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning econometrics (really beginner) and RPA
+- 👀 I’m interested in Python for International Relations (and general political science)
 
 
 <!---
