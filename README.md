@@ -1,4 +1,4 @@
-## 👋 Welcome to my corner
+## 👋 Welcome to My Corner
 I'm a political science explorer by trade, interested in Quantitative IR (and general political science) using Python.
   
 ## What’s Cooking in My Brain?
