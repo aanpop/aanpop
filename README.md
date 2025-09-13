@@ -2,8 +2,12 @@
 I'm a political science explorer by trade, interested in Quantitative IR (and general political science) using Python.
   
 ## What’s Cooking in My Brain?
-Currently I'm PhD-ing my way through IR while exploring Python as my trusty sidekick - not as an expert yet. Still learning, but always amazed. 
-I'm exploring it for analyzing the political dynamics that shape our world. Like having a digital Swiss Army knife for research. And yes, it does work wonders even for qualitative analysis (who knew?).
+Currently I'm PhD-ing my way through IR while exploring Python as my trusty sidekick - not as an expert yet. 
+Still learning, but always amazed!
+
+I'm exploring it to analyze the political dynamics that shape our world. 
+Like having a digital Swiss Army knife for research. 
+And yes, it does work wonders even for qualitative analysis (who knew?).
 
 ## Current Interests
 
